@@ -1,6 +1,6 @@
 # BugMauiCarouselIncremental
 
-The `RemainingItemsThresholdReachedCommand` of the `` is not fired when running in Android (14).
+The `RemainingItemsThresholdReachedCommand` of the `CarouselView` is not fired when running in Android (14).
 
 When running in Windows, everything is working as it should.
 
